@@ -16,8 +16,4 @@ My primary focus areas are:
 - Flask / REST APIs
 - Git & GitHub
 
----
 
-├── README.md
-├── ddl.sql
-└── dml.sql
