@@ -1,0 +1,12 @@
+beneficiary_id,name,age,city,income,service
+1,Aarav,25,Bhubaneswar,25000,Education
+2,Diya,31,Mumbai,40000,Healthcare
+3,Rohan,,Delhi,30000,Education
+4,Ananya,22,Mumbai,,Healthcare
+5,Riya,28,Delhi,35000,Food
+6,Arjun,19,Bhubaneswar,18000,Education
+7,Meera,45,Mumbai,50000,Healthcare
+8,Kabir,17,Delhi,15000,Food
+9,Sneha,36,Bhubaneswar,32000,Education
+10,Vivaan,29,Mumbai,45000,Healthcare
+10,Vivaan,29,Mumbai,45000,Healthcare
